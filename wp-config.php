@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 /**
  * WordPress基础配置文件。
  *
@@ -87,6 +87,8 @@ define('WP_DEBUG', false);
  * 如需禁用，请移除或注释掉本行。
  */
 //define('WP_ZH_CN_ICP_NUM', true);
+//配置语言
+define('WPLANG', 'zh_CN');
 
 /* 好了！请不要再继续编辑。请保存本文件。使用愉快！ */
 
